@@ -4,6 +4,7 @@
   "name": "Dracula",
   "background":    "#282936",
   "foreground":    "#e9e9f4",
+  "cursorColor":   "#e9e9f4",
   "black":         "#282936",
   "red":           "#ea51b2",
   "green":         "#ebff87",

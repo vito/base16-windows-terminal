@@ -4,6 +4,7 @@
   "name": "PhD",
   "background":    "#061229",
   "foreground":    "#b8bbc2",
+  "cursorColor":   "#b8bbc2",
   "black":         "#061229",
   "red":           "#d07346",
   "green":         "#99bf52",

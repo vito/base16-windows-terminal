@@ -4,6 +4,7 @@
   "name": "One Light",
   "background":    "#fafafa",
   "foreground":    "#383a42",
+  "cursorColor":   "#383a42",
   "black":         "#fafafa",
   "red":           "#ca1243",
   "green":         "#50a14f",

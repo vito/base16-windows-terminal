@@ -1,9 +1,10 @@
 // Base 16 Snazzy 256 Color Configuration - Windows Terminal
-// Colors made by Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+// Colors made by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 {
   "name": "Snazzy",
   "background":    "#282a36",
   "foreground":    "#e2e4e5",
+  "cursorColor":   "#e2e4e5",
   "black":         "#282a36",
   "red":           "#ff5c57",
   "green":         "#5af78e",

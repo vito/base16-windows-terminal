@@ -4,6 +4,7 @@
   "name": "Ocean",
   "background":    "#2b303b",
   "foreground":    "#c0c5ce",
+  "cursorColor":   "#c0c5ce",
   "black":         "#2b303b",
   "red":           "#bf616a",
   "green":         "#a3be8c",

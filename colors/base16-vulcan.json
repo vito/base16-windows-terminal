@@ -4,6 +4,7 @@
   "name": "vulcan",
   "background":    "#041523",
   "foreground":    "#5b778c",
+  "cursorColor":   "#5b778c",
   "black":         "#041523",
   "red":           "#818591",
   "green":         "#977d7c",

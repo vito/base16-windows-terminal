@@ -1,0 +1,24 @@
+// Base 16 tender Color Configuration - Windows Terminal
+// Colors made by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+{
+  "name": "tender",
+  "background":    "#282828",
+  "foreground":    "#eeeeee",
+  "cursorColor":   "#eeeeee",
+  "black":         "#282828",
+  "red":           "#f43753",
+  "green":         "#c9d05c",
+  "yellow":        "#ffc24b",
+  "blue":          "#b3deef",
+  "purple":        "#d3b987",
+  "cyan":          "#73cef4",
+  "white":         "#eeeeee",
+  "brightBlack":   "#4c4c4c",
+  "brightRed":     "#dc9656",
+  "brightGreen":   "#383838",
+  "brightYellow":  "#484848",
+  "brightBlue":    "#b8b8b8",
+  "brightPurple":  "#e8e8e8",
+  "brightCyan":    "#a16946",
+  "brightWhite":   "#feffff"
+}

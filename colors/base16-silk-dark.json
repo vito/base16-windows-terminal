@@ -1,0 +1,24 @@
+// Base 16 Silk Dark Color Configuration - Windows Terminal
+// Colors made by Gabriel Fontes (https://github.com/Misterio77)
+{
+  "name": "Silk Dark",
+  "background":    "#0e3c46",
+  "foreground":    "#c7dbdd",
+  "cursorColor":   "#c7dbdd",
+  "black":         "#0e3c46",
+  "red":           "#fb6953",
+  "green":         "#73d8ad",
+  "yellow":        "#fce380",
+  "blue":          "#46bddd",
+  "purple":        "#756b8a",
+  "cyan":          "#3fb2b9",
+  "white":         "#c7dbdd",
+  "brightBlack":   "#587073",
+  "brightRed":     "#fcab74",
+  "brightGreen":   "#1d494e",
+  "brightYellow":  "#2a5054",
+  "brightBlue":    "#9dc8cd",
+  "brightPurple":  "#cbf2f7",
+  "brightCyan":    "#9b647b",
+  "brightWhite":   "#d2faff"
+}

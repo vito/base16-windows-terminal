@@ -4,6 +4,7 @@
   "name": "London Tube",
   "background":    "#231f20",
   "foreground":    "#d9d8d8",
+  "cursorColor":   "#d9d8d8",
   "black":         "#231f20",
   "red":           "#ee2e24",
   "green":         "#00853e",

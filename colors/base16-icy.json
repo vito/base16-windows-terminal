@@ -4,6 +4,7 @@
   "name": "Icy Dark",
   "background":    "#021012",
   "foreground":    "#095b67",
+  "cursorColor":   "#095b67",
   "black":         "#021012",
   "red":           "#16c1d9",
   "green":         "#4dd0e1",

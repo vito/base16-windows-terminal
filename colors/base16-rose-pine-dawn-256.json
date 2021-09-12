@@ -1,0 +1,24 @@
+// Base 16 Rosé Pine Dawn 256 Color Configuration - Windows Terminal
+// Colors made by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+{
+  "name": "Rosé Pine Dawn",
+  "background":    "#faf4ed",
+  "foreground":    "#575279",
+  "cursorColor":   "#575279",
+  "black":         "#faf4ed",
+  "red":           "#1f1d2e",
+  "green":         "#d7827e",
+  "yellow":        "#ea9d34",
+  "blue":          "#56949f",
+  "purple":        "#907aa9",
+  "cyan":          "#286983",
+  "white":         "#575279",
+  "brightBlack":   "#9893a5",
+  "brightRed":     "#1f1d2e",
+  "brightGreen":   "#d7827e",
+  "brightYellow":  "#ea9d34",
+  "brightBlue":    "#56949f",
+  "brightPurple":  "#907aa9",
+  "brightCyan":    "#286983",
+  "brightWhite":   "#26233a"
+}

@@ -4,6 +4,7 @@
   "name": "Hopscotch",
   "background":    "#322931",
   "foreground":    "#b9b5b8",
+  "cursorColor":   "#b9b5b8",
   "black":         "#322931",
   "red":           "#dd464c",
   "green":         "#8fc13e",

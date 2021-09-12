@@ -4,6 +4,7 @@
   "name": "Eighties",
   "background":    "#2d2d2d",
   "foreground":    "#d3d0c8",
+  "cursorColor":   "#d3d0c8",
   "black":         "#2d2d2d",
   "red":           "#f2777a",
   "green":         "#99cc99",

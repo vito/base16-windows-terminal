@@ -1,0 +1,24 @@
+// Base 16 Synth Midnight Terminal Light Color Configuration - Windows Terminal
+// Colors made by Michaël Ball (http://github.com/michael-ball/)
+{
+  "name": "Synth Midnight Terminal Light",
+  "background":    "#dddfe0",
+  "foreground":    "#28292a",
+  "cursorColor":   "#28292a",
+  "black":         "#dddfe0",
+  "red":           "#b53b50",
+  "green":         "#06ea61",
+  "yellow":        "#c9d364",
+  "blue":          "#03aeff",
+  "purple":        "#ea5ce2",
+  "cyan":          "#42fff9",
+  "white":         "#28292a",
+  "brightBlack":   "#a3a5a6",
+  "brightRed":     "#ea770d",
+  "brightGreen":   "#cfd1d2",
+  "brightYellow":  "#c1c3c4",
+  "brightBlue":    "#474849",
+  "brightPurple":  "#1a1b1c",
+  "brightCyan":    "#cd6320",
+  "brightWhite":   "#050608"
+}

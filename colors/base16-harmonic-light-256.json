@@ -4,6 +4,7 @@
   "name": "Harmonic16 Light",
   "background":    "#f7f9fb",
   "foreground":    "#405c79",
+  "cursorColor":   "#405c79",
   "black":         "#f7f9fb",
   "red":           "#bf8b56",
   "green":         "#56bf8b",

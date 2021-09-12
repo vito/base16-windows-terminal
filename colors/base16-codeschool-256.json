@@ -4,6 +4,7 @@
   "name": "Codeschool",
   "background":    "#232c31",
   "foreground":    "#9ea7a6",
+  "cursorColor":   "#9ea7a6",
   "black":         "#232c31",
   "red":           "#2a5491",
   "green":         "#237986",

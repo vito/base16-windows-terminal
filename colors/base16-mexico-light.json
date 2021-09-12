@@ -4,6 +4,7 @@
   "name": "Mexico Light",
   "background":    "#f8f8f8",
   "foreground":    "#383838",
+  "cursorColor":   "#383838",
   "black":         "#f8f8f8",
   "red":           "#ab4642",
   "green":         "#538947",

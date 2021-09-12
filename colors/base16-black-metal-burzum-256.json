@@ -4,6 +4,7 @@
   "name": "Black Metal (Burzum)",
   "background":    "#000000",
   "foreground":    "#c1c1c1",
+  "cursorColor":   "#c1c1c1",
   "black":         "#000000",
   "red":           "#5f8787",
   "green":         "#ddeecc",

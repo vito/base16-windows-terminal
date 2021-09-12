@@ -4,6 +4,7 @@
   "name": "Gruvbox dark, medium",
   "background":    "#282828",
   "foreground":    "#d5c4a1",
+  "cursorColor":   "#d5c4a1",
   "black":         "#282828",
   "red":           "#fb4934",
   "green":         "#b8bb26",

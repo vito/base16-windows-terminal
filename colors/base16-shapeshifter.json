@@ -4,6 +4,7 @@
   "name": "Shapeshifter",
   "background":    "#f9f9f9",
   "foreground":    "#102015",
+  "cursorColor":   "#102015",
   "black":         "#f9f9f9",
   "red":           "#e92f2f",
   "green":         "#0ed839",

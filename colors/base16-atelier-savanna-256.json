@@ -4,6 +4,7 @@
   "name": "Atelier Savanna",
   "background":    "#171c19",
   "foreground":    "#87928a",
+  "cursorColor":   "#87928a",
   "black":         "#171c19",
   "red":           "#b16139",
   "green":         "#489963",

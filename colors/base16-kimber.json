@@ -1,0 +1,24 @@
+// Base 16 Kimber Color Configuration - Windows Terminal
+// Colors made by Mishka Nguyen (https://github.com/akhsiM)
+{
+  "name": "Kimber",
+  "background":    "#222222",
+  "foreground":    "#dedee7",
+  "cursorColor":   "#dedee7",
+  "black":         "#222222",
+  "red":           "#c88c8c",
+  "green":         "#99c899",
+  "yellow":        "#d8b56d",
+  "blue":          "#537c9c",
+  "purple":        "#86cacd",
+  "cyan":          "#78b4b4",
+  "white":         "#dedee7",
+  "brightBlack":   "#644646",
+  "brightRed":     "#476c88",
+  "brightGreen":   "#313131",
+  "brightYellow":  "#555d55",
+  "brightBlue":    "#5a5a5a",
+  "brightPurple":  "#c3c3b4",
+  "brightCyan":    "#704f4f",
+  "brightWhite":   "#ffffe6"
+}

@@ -4,6 +4,7 @@
   "name": "Monokai",
   "background":    "#272822",
   "foreground":    "#f8f8f2",
+  "cursorColor":   "#f8f8f2",
   "black":         "#272822",
   "red":           "#f92672",
   "green":         "#a6e22e",

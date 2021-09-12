@@ -4,6 +4,7 @@
   "name": "Zenburn",
   "background":    "#383838",
   "foreground":    "#dcdccc",
+  "cursorColor":   "#dcdccc",
   "black":         "#383838",
   "red":           "#dca3a3",
   "green":         "#5f7f5f",

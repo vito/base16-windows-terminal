@@ -1,0 +1,24 @@
+// Base 16 Shades of Purple 256 Color Configuration - Windows Terminal
+// Colors made by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+{
+  "name": "Shades of Purple",
+  "background":    "#1e1e3f",
+  "foreground":    "#c7c7c7",
+  "cursorColor":   "#c7c7c7",
+  "black":         "#1e1e3f",
+  "red":           "#d90429",
+  "green":         "#3ad900",
+  "yellow":        "#ffe700",
+  "blue":          "#6943ff",
+  "purple":        "#ff2c70",
+  "cyan":          "#00c5c7",
+  "white":         "#c7c7c7",
+  "brightBlack":   "#808080",
+  "brightRed":     "#d90429",
+  "brightGreen":   "#3ad900",
+  "brightYellow":  "#ffe700",
+  "brightBlue":    "#6943ff",
+  "brightPurple":  "#ff2c70",
+  "brightCyan":    "#00c5c7",
+  "brightWhite":   "#ffffff"
+}

@@ -4,6 +4,7 @@
   "name": "Isotope",
   "background":    "#000000",
   "foreground":    "#d0d0d0",
+  "cursorColor":   "#d0d0d0",
   "black":         "#000000",
   "red":           "#ff0000",
   "green":         "#33ff00",

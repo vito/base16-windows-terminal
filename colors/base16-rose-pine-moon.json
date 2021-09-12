@@ -1,0 +1,24 @@
+// Base 16 Rosé Pine Moon Color Configuration - Windows Terminal
+// Colors made by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+{
+  "name": "Rosé Pine Moon",
+  "background":    "#232136",
+  "foreground":    "#e0def4",
+  "cursorColor":   "#e0def4",
+  "black":         "#232136",
+  "red":           "#ecebf0",
+  "green":         "#ea9a97",
+  "yellow":        "#f6c177",
+  "blue":          "#9ccfd8",
+  "purple":        "#c4a7e7",
+  "cyan":          "#3e8fb0",
+  "white":         "#e0def4",
+  "brightBlack":   "#59546d",
+  "brightRed":     "#eb6f92",
+  "brightGreen":   "#2a273f",
+  "brightYellow":  "#393552",
+  "brightBlue":    "#817c9c",
+  "brightPurple":  "#f5f5f7",
+  "brightCyan":    "#b9b9bc",
+  "brightWhite":   "#d9d7e1"
+}

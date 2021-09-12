@@ -4,6 +4,7 @@
   "name": "Atelier Seaside",
   "background":    "#131513",
   "foreground":    "#8ca68c",
+  "cursorColor":   "#8ca68c",
   "black":         "#131513",
   "red":           "#e6193c",
   "green":         "#29a329",

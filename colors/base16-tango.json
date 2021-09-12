@@ -4,6 +4,7 @@
   "name": "Tango",
   "background":    "#2e3436",
   "foreground":    "#d3d7cf",
+  "cursorColor":   "#d3d7cf",
   "black":         "#2e3436",
   "red":           "#cc0000",
   "green":         "#4e9a06",

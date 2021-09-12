@@ -4,6 +4,7 @@
   "name": "Fruit Soda",
   "background":    "#f1ecf1",
   "foreground":    "#515151",
+  "cursorColor":   "#515151",
   "black":         "#f1ecf1",
   "red":           "#fe3e31",
   "green":         "#47f74c",

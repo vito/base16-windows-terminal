@@ -4,6 +4,7 @@
   "name": "Tomorrow Night",
   "background":    "#1d1f21",
   "foreground":    "#c5c8c6",
+  "cursorColor":   "#c5c8c6",
   "black":         "#1d1f21",
   "red":           "#cc6666",
   "green":         "#b5bd68",

@@ -4,6 +4,7 @@
   "name": "Equilibrium Gray Dark",
   "background":    "#111111",
   "foreground":    "#ababab",
+  "cursorColor":   "#ababab",
   "black":         "#111111",
   "red":           "#f04339",
   "green":         "#7f8b00",

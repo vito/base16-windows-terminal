@@ -4,6 +4,7 @@
   "name": "Equilibrium Light",
   "background":    "#f5f0e7",
   "foreground":    "#43474e",
+  "cursorColor":   "#43474e",
   "black":         "#f5f0e7",
   "red":           "#d02023",
   "green":         "#637200",

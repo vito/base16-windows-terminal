@@ -4,6 +4,7 @@
   "name": "Atelier Lakeside Light",
   "background":    "#ebf8ff",
   "foreground":    "#516d7b",
+  "cursorColor":   "#516d7b",
   "black":         "#ebf8ff",
   "red":           "#d22d72",
   "green":         "#568c3b",

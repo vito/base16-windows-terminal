@@ -4,6 +4,7 @@
   "name": "Atelier Forest",
   "background":    "#1b1918",
   "foreground":    "#a8a19f",
+  "cursorColor":   "#a8a19f",
   "black":         "#1b1918",
   "red":           "#f22c40",
   "green":         "#7b9726",

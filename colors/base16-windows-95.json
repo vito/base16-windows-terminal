@@ -1,0 +1,24 @@
+// Base 16 Windows 95 Color Configuration - Windows Terminal
+// Colors made by Fergus Collins (https://github.com/C-Fergus)
+{
+  "name": "Windows 95",
+  "background":    "#000000",
+  "foreground":    "#a8a8a8",
+  "cursorColor":   "#a8a8a8",
+  "black":         "#000000",
+  "red":           "#fc5454",
+  "green":         "#54fc54",
+  "yellow":        "#fcfc54",
+  "blue":          "#5454fc",
+  "purple":        "#fc54fc",
+  "cyan":          "#54fcfc",
+  "white":         "#a8a8a8",
+  "brightBlack":   "#545454",
+  "brightRed":     "#a85400",
+  "brightGreen":   "#1c1c1c",
+  "brightYellow":  "#383838",
+  "brightBlue":    "#7e7e7e",
+  "brightPurple":  "#d2d2d2",
+  "brightCyan":    "#00a800",
+  "brightWhite":   "#fcfcfc"
+}

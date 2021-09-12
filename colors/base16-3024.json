@@ -4,6 +4,7 @@
   "name": "3024",
   "background":    "#090300",
   "foreground":    "#a5a2a2",
+  "cursorColor":   "#a5a2a2",
   "black":         "#090300",
   "red":           "#db2d20",
   "green":         "#01a252",

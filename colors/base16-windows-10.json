@@ -1,0 +1,24 @@
+// Base 16 Windows 10 Color Configuration - Windows Terminal
+// Colors made by Fergus Collins (https://github.com/C-Fergus)
+{
+  "name": "Windows 10",
+  "background":    "#0c0c0c",
+  "foreground":    "#cccccc",
+  "cursorColor":   "#cccccc",
+  "black":         "#0c0c0c",
+  "red":           "#e74856",
+  "green":         "#16c60c",
+  "yellow":        "#f9f1a5",
+  "blue":          "#3b78ff",
+  "purple":        "#b4009e",
+  "cyan":          "#61d6d6",
+  "white":         "#cccccc",
+  "brightBlack":   "#767676",
+  "brightRed":     "#c19c00",
+  "brightGreen":   "#2f2f2f",
+  "brightYellow":  "#535353",
+  "brightBlue":    "#b9b9b9",
+  "brightPurple":  "#dfdfdf",
+  "brightCyan":    "#13a10e",
+  "brightWhite":   "#f2f2f2"
+}

@@ -4,6 +4,7 @@
   "name": "Gigavolt",
   "background":    "#202126",
   "foreground":    "#e9e7e1",
+  "cursorColor":   "#e9e7e1",
   "black":         "#202126",
   "red":           "#ff661a",
   "green":         "#f2e6a9",

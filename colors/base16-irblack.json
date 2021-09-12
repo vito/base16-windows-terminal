@@ -4,6 +4,7 @@
   "name": "IR Black",
   "background":    "#000000",
   "foreground":    "#b5b3aa",
+  "cursorColor":   "#b5b3aa",
   "black":         "#000000",
   "red":           "#ff6c60",
   "green":         "#a8ff60",

@@ -4,6 +4,7 @@
   "name": "Atelier Heath",
   "background":    "#1b181b",
   "foreground":    "#ab9bab",
+  "cursorColor":   "#ab9bab",
   "black":         "#1b181b",
   "red":           "#ca402b",
   "green":         "#918b3b",

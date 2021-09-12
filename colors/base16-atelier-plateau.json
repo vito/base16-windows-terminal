@@ -4,6 +4,7 @@
   "name": "Atelier Plateau",
   "background":    "#1b1818",
   "foreground":    "#8a8585",
+  "cursorColor":   "#8a8585",
   "black":         "#1b1818",
   "red":           "#ca4949",
   "green":         "#4b8b8b",

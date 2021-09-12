@@ -4,6 +4,7 @@
   "name": "Atelier Estuary Light",
   "background":    "#f4f3ec",
   "foreground":    "#5f5e4e",
+  "cursorColor":   "#5f5e4e",
   "black":         "#f4f3ec",
   "red":           "#ba6236",
   "green":         "#7d9726",

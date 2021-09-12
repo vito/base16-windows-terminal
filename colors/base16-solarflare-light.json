@@ -1,0 +1,24 @@
+// Base 16 Solar Flare Light Color Configuration - Windows Terminal
+// Colors made by Chuck Harmston (https://chuck.harmston.ch)
+{
+  "name": "Solar Flare Light",
+  "background":    "#f5f7fa",
+  "foreground":    "#586875",
+  "cursorColor":   "#586875",
+  "black":         "#f5f7fa",
+  "red":           "#ef5253",
+  "green":         "#7cc844",
+  "yellow":        "#e4b51c",
+  "blue":          "#33b5e1",
+  "purple":        "#a363d5",
+  "cyan":          "#52cbb0",
+  "white":         "#586875",
+  "brightBlack":   "#85939e",
+  "brightRed":     "#e66b2b",
+  "brightGreen":   "#e8e9ed",
+  "brightYellow":  "#a6afb8",
+  "brightBlue":    "#667581",
+  "brightPurple":  "#222e38",
+  "brightCyan":    "#d73c9a",
+  "brightWhite":   "#18262f"
+}

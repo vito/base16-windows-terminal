@@ -4,6 +4,7 @@
   "name": "Unikitty Dark",
   "background":    "#2e2a31",
   "foreground":    "#bcbabe",
+  "cursorColor":   "#bcbabe",
   "black":         "#2e2a31",
   "red":           "#d8137f",
   "green":         "#17ad98",

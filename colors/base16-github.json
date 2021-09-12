@@ -4,6 +4,7 @@
   "name": "Github",
   "background":    "#ffffff",
   "foreground":    "#333333",
+  "cursorColor":   "#333333",
   "black":         "#ffffff",
   "red":           "#ed6a43",
   "green":         "#183691",

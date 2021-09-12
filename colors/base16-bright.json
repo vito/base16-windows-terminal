@@ -4,6 +4,7 @@
   "name": "Bright",
   "background":    "#000000",
   "foreground":    "#e0e0e0",
+  "cursorColor":   "#e0e0e0",
   "black":         "#000000",
   "red":           "#fb0120",
   "green":         "#a1c659",

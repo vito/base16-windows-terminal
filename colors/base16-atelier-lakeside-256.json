@@ -4,6 +4,7 @@
   "name": "Atelier Lakeside",
   "background":    "#161b1d",
   "foreground":    "#7ea2b4",
+  "cursorColor":   "#7ea2b4",
   "black":         "#161b1d",
   "red":           "#d22d72",
   "green":         "#568c3b",

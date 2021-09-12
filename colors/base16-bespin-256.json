@@ -4,6 +4,7 @@
   "name": "Bespin",
   "background":    "#28211c",
   "foreground":    "#8a8986",
+  "cursorColor":   "#8a8986",
   "black":         "#28211c",
   "red":           "#cf6a4c",
   "green":         "#54be0d",

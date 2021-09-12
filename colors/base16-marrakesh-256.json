@@ -4,6 +4,7 @@
   "name": "Marrakesh",
   "background":    "#201602",
   "foreground":    "#948e48",
+  "cursorColor":   "#948e48",
   "black":         "#201602",
   "red":           "#c35359",
   "green":         "#18974e",

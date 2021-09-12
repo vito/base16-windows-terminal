@@ -4,12 +4,13 @@
   "name": "summercamp",
   "background":    "#1c1810",
   "foreground":    "#736e55",
+  "cursorColor":   "#736e55",
   "black":         "#1c1810",
   "red":           "#e35142",
   "green":         "#5ceb5a",
   "yellow":        "#f2ff27",
   "blue":          "#489bf0",
-  "purple":        "#FF8080",
+  "purple":        "#ff8080",
   "cyan":          "#5aebbc",
   "white":         "#736e55",
   "brightBlack":   "#504b38",
@@ -18,6 +19,6 @@
   "brightYellow":  "#3a3527",
   "brightBlue":    "#5f5b45",
   "brightPurple":  "#bab696",
-  "brightCyan":    "#F69BE7",
+  "brightCyan":    "#f69be7",
   "brightWhite":   "#f8f5de"
 }

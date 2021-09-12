@@ -4,6 +4,7 @@
   "name": "Macintosh",
   "background":    "#000000",
   "foreground":    "#c0c0c0",
+  "cursorColor":   "#c0c0c0",
   "black":         "#000000",
   "red":           "#dd0907",
   "green":         "#1fb714",

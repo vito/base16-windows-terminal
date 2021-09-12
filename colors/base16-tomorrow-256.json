@@ -4,6 +4,7 @@
   "name": "Tomorrow",
   "background":    "#ffffff",
   "foreground":    "#4d4d4c",
+  "cursorColor":   "#4d4d4c",
   "black":         "#ffffff",
   "red":           "#c82829",
   "green":         "#718c00",

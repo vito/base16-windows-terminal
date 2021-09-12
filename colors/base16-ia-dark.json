@@ -4,6 +4,7 @@
   "name": "iA Dark",
   "background":    "#1a1a1a",
   "foreground":    "#cccccc",
+  "cursorColor":   "#cccccc",
   "black":         "#1a1a1a",
   "red":           "#d88568",
   "green":         "#83a471",

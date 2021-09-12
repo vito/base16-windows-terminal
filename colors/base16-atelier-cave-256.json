@@ -4,6 +4,7 @@
   "name": "Atelier Cave",
   "background":    "#19171c",
   "foreground":    "#8b8792",
+  "cursorColor":   "#8b8792",
   "black":         "#19171c",
   "red":           "#be4678",
   "green":         "#2a9292",

@@ -1,0 +1,24 @@
+// Base 16 Rosé Pine Color Configuration - Windows Terminal
+// Colors made by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+{
+  "name": "Rosé Pine",
+  "background":    "#191724",
+  "foreground":    "#e0def4",
+  "cursorColor":   "#e0def4",
+  "black":         "#191724",
+  "red":           "#eb6f92",
+  "green":         "#31748f",
+  "yellow":        "#f6c177",
+  "blue":          "#9ccfd8",
+  "purple":        "#c4a7e7",
+  "cyan":          "#ebbcba",
+  "white":         "#e0def4",
+  "brightBlack":   "#555169",
+  "brightRed":     "#f6c177",
+  "brightGreen":   "#1f1d2e",
+  "brightYellow":  "#26233a",
+  "brightBlue":    "#6e6a86",
+  "brightPurple":  "#f0f0f3",
+  "brightCyan":    "#e5e5e5",
+  "brightWhite":   "#c5c3ce"
+}

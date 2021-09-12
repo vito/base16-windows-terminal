@@ -4,6 +4,7 @@
   "name": "PaperColor Light",
   "background":    "#eeeeee",
   "foreground":    "#444444",
+  "cursorColor":   "#444444",
   "black":         "#eeeeee",
   "red":           "#bcbcbc",
   "green":         "#8700af",

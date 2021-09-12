@@ -4,6 +4,7 @@
   "name": "Pico",
   "background":    "#000000",
   "foreground":    "#5f574f",
+  "cursorColor":   "#5f574f",
   "black":         "#000000",
   "red":           "#ff004d",
   "green":         "#00e756",

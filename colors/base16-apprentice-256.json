@@ -1,0 +1,24 @@
+// Base 16 Apprentice 256 Color Configuration - Windows Terminal
+// Colors made by romainl
+{
+  "name": "Apprentice",
+  "background":    "#262626",
+  "foreground":    "#bcbcbc",
+  "cursorColor":   "#bcbcbc",
+  "black":         "#262626",
+  "red":           "#5f8787",
+  "green":         "#87af87",
+  "yellow":        "#5f8787",
+  "blue":          "#ffffaf",
+  "purple":        "#87afd7",
+  "cyan":          "#5f875f",
+  "white":         "#bcbcbc",
+  "brightBlack":   "#6c6c6c",
+  "brightRed":     "#5f8787",
+  "brightGreen":   "#87af87",
+  "brightYellow":  "#5f8787",
+  "brightBlue":    "#ffffaf",
+  "brightPurple":  "#87afd7",
+  "brightCyan":    "#5f875f",
+  "brightWhite":   "#ffffff"
+}

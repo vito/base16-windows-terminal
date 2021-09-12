@@ -4,6 +4,7 @@
   "name": "Edge Dark",
   "background":    "#262729",
   "foreground":    "#b7bec9",
+  "cursorColor":   "#b7bec9",
   "black":         "#262729",
   "red":           "#e77171",
   "green":         "#a1bf78",

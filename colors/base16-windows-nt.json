@@ -1,0 +1,24 @@
+// Base 16 Windows NT Color Configuration - Windows Terminal
+// Colors made by Fergus Collins (https://github.com/C-Fergus)
+{
+  "name": "Windows NT",
+  "background":    "#000000",
+  "foreground":    "#c0c0c0",
+  "cursorColor":   "#c0c0c0",
+  "black":         "#000000",
+  "red":           "#ff0000",
+  "green":         "#00ff00",
+  "yellow":        "#ffff00",
+  "blue":          "#0000ff",
+  "purple":        "#ff00ff",
+  "cyan":          "#00ffff",
+  "white":         "#c0c0c0",
+  "brightBlack":   "#808080",
+  "brightRed":     "#808000",
+  "brightGreen":   "#2a2a2a",
+  "brightYellow":  "#555555",
+  "brightBlue":    "#a1a1a1",
+  "brightPurple":  "#e0e0e0",
+  "brightCyan":    "#008000",
+  "brightWhite":   "#ffffff"
+}

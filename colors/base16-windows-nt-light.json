@@ -1,0 +1,24 @@
+// Base 16 Windows NT Light Color Configuration - Windows Terminal
+// Colors made by Fergus Collins (https://github.com/C-Fergus)
+{
+  "name": "Windows NT Light",
+  "background":    "#ffffff",
+  "foreground":    "#808080",
+  "cursorColor":   "#808080",
+  "black":         "#ffffff",
+  "red":           "#800000",
+  "green":         "#008000",
+  "yellow":        "#808000",
+  "blue":          "#000080",
+  "purple":        "#800080",
+  "cyan":          "#008080",
+  "white":         "#808080",
+  "brightBlack":   "#c0c0c0",
+  "brightRed":     "#ffff00",
+  "brightGreen":   "#eaeaea",
+  "brightYellow":  "#d5d5d5",
+  "brightBlue":    "#a0a0a0",
+  "brightPurple":  "#404040",
+  "brightCyan":    "#00ff00",
+  "brightWhite":   "#000000"
+}

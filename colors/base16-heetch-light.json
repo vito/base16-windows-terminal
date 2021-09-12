@@ -4,6 +4,7 @@
   "name": "Heetch Light",
   "background":    "#feffff",
   "foreground":    "#5a496e",
+  "cursorColor":   "#5a496e",
   "black":         "#feffff",
   "red":           "#27d9d5",
   "green":         "#f80059",

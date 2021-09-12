@@ -4,6 +4,7 @@
   "name": "PaperColor Dark",
   "background":    "#1c1c1c",
   "foreground":    "#808080",
+  "cursorColor":   "#808080",
   "black":         "#1c1c1c",
   "red":           "#585858",
   "green":         "#af87d7",

@@ -4,6 +4,7 @@
   "name": "Porple",
   "background":    "#292c36",
   "foreground":    "#d8d8d8",
+  "cursorColor":   "#d8d8d8",
   "black":         "#292c36",
   "red":           "#f84547",
   "green":         "#95c76f",

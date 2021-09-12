@@ -4,6 +4,7 @@
   "name": "Material Vivid",
   "background":    "#202124",
   "foreground":    "#80868b",
+  "cursorColor":   "#80868b",
   "black":         "#202124",
   "red":           "#f44336",
   "green":         "#00e676",

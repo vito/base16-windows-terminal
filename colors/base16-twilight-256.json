@@ -4,6 +4,7 @@
   "name": "Twilight",
   "background":    "#1e1e1e",
   "foreground":    "#a7a7a7",
+  "cursorColor":   "#a7a7a7",
   "black":         "#1e1e1e",
   "red":           "#cf6a4c",
   "green":         "#8f9d6a",

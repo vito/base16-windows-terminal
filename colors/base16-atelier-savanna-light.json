@@ -4,6 +4,7 @@
   "name": "Atelier Savanna Light",
   "background":    "#ecf4ee",
   "foreground":    "#526057",
+  "cursorColor":   "#526057",
   "black":         "#ecf4ee",
   "red":           "#b16139",
   "green":         "#489963",

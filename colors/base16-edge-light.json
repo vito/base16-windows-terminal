@@ -4,6 +4,7 @@
   "name": "Edge Light",
   "background":    "#fafafa",
   "foreground":    "#5e646f",
+  "cursorColor":   "#5e646f",
   "black":         "#fafafa",
   "red":           "#db7070",
   "green":         "#7c9f4b",

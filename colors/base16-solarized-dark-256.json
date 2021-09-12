@@ -4,6 +4,7 @@
   "name": "Solarized Dark",
   "background":    "#002b36",
   "foreground":    "#93a1a1",
+  "cursorColor":   "#93a1a1",
   "black":         "#002b36",
   "red":           "#dc322f",
   "green":         "#859900",

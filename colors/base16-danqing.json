@@ -1,0 +1,24 @@
+// Base 16 DanQing Color Configuration - Windows Terminal
+// Colors made by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+{
+  "name": "DanQing",
+  "background":    "#2d302f",
+  "foreground":    "#e0f0ef",
+  "cursorColor":   "#e0f0ef",
+  "black":         "#2d302f",
+  "red":           "#f9906f",
+  "green":         "#8ab361",
+  "yellow":        "#f0c239",
+  "blue":          "#b0a4e3",
+  "purple":        "#cca4e3",
+  "cyan":          "#30dff3",
+  "white":         "#e0f0ef",
+  "brightBlack":   "#9da8a3",
+  "brightRed":     "#b38a61",
+  "brightGreen":   "#434846",
+  "brightYellow":  "#5a605d",
+  "brightBlue":    "#cad8d2",
+  "brightPurple":  "#ecf6f2",
+  "brightCyan":    "#ca6924",
+  "brightWhite":   "#fcfefd"
+}

@@ -4,6 +4,7 @@
   "name": "Woodland",
   "background":    "#231e18",
   "foreground":    "#cabcb1",
+  "cursorColor":   "#cabcb1",
   "black":         "#231e18",
   "red":           "#d35c5c",
   "green":         "#b7ba53",

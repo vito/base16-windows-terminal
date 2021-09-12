@@ -4,6 +4,7 @@
   "name": "Atelier Dune",
   "background":    "#20201d",
   "foreground":    "#a6a28c",
+  "cursorColor":   "#a6a28c",
   "black":         "#20201d",
   "red":           "#d73737",
   "green":         "#60ac39",

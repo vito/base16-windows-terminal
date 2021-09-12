@@ -4,6 +4,7 @@
   "name": "Atelier Estuary",
   "background":    "#22221b",
   "foreground":    "#929181",
+  "cursorColor":   "#929181",
   "black":         "#22221b",
   "red":           "#ba6236",
   "green":         "#7d9726",

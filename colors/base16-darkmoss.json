@@ -4,6 +4,7 @@
   "name": "darkmoss",
   "background":    "#171e1f",
   "foreground":    "#c7c7a5",
+  "cursorColor":   "#c7c7a5",
   "black":         "#171e1f",
   "red":           "#ff4658",
   "green":         "#499180",

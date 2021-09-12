@@ -4,6 +4,7 @@
   "name": "Grayscale Light",
   "background":    "#f7f7f7",
   "foreground":    "#464646",
+  "cursorColor":   "#464646",
   "black":         "#f7f7f7",
   "red":           "#7c7c7c",
   "green":         "#8e8e8e",

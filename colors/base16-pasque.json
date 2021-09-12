@@ -1,0 +1,24 @@
+// Base 16 Pasque Color Configuration - Windows Terminal
+// Colors made by Gabriel Fontes (https://github.com/Misterio77)
+{
+  "name": "Pasque",
+  "background":    "#271c3a",
+  "foreground":    "#dedcdf",
+  "cursorColor":   "#dedcdf",
+  "black":         "#271c3a",
+  "red":           "#a92258",
+  "green":         "#c6914b",
+  "yellow":        "#804ead",
+  "blue":          "#8e7dc6",
+  "purple":        "#953b9d",
+  "cyan":          "#7263aa",
+  "white":         "#dedcdf",
+  "brightBlack":   "#5d5766",
+  "brightRed":     "#918889",
+  "brightGreen":   "#100323",
+  "brightYellow":  "#3e2d5c",
+  "brightBlue":    "#bebcbf",
+  "brightPurple":  "#edeaef",
+  "brightCyan":    "#59325c",
+  "brightWhite":   "#bbaadd"
+}

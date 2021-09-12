@@ -4,6 +4,7 @@
   "name": "Green Screen",
   "background":    "#001100",
   "foreground":    "#00bb00",
+  "cursorColor":   "#00bb00",
   "black":         "#001100",
   "red":           "#007700",
   "green":         "#00bb00",
